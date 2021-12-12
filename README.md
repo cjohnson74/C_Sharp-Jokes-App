@@ -10,3 +10,4 @@ A jokes app that allows you to input jokes and their answers, so that you can ha
 - Database Setup
 - Registration, Login and Security
 - Search the database
+- Object Oriented Programming (OOP)
