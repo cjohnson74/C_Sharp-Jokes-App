@@ -3,7 +3,7 @@ A jokes app that allows you to input jokes and their answers, so that you can ha
 
 ## Personally this app is a fun way for me to add C# to my language tool belt. This application is one of the first of many projects I will create with the language.
 
-# Teachniques and Technollgies Utilized
+# Teachniques and Technologies Utilized
 - CRUD
 - ASP.NET Core
 - Models Views Controllers (MVC)
