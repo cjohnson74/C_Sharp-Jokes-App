@@ -3,17 +3,18 @@
     <Files>
       <File FileName="JokesWebApp/Controllers/HomeController.cs" Line="25" Column="1" />
       <File FileName="JokesWebApp/Views/Home/Index.cshtml" Line="7" Column="91" />
-      <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" Line="6" Column="96" />
+      <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" Line="7" Column="1" />
+      <File FileName="JokesWebApp/Program.cs" Line="16" Column="1" />
+      <File FileName="JokesWebApp/Models/Joke.cs" Line="7" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="JokesWebApp" expanded="True">
             <Node name="JokesWebApp" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Joke.cs" selected="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
             </Node>
