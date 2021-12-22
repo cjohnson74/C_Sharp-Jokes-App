@@ -5,7 +5,6 @@
       <File FileName="JokesWebApp/Views/Home/Index.cshtml" Line="7" Column="91" />
       <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" Line="7" Column="1" />
       <File FileName="JokesWebApp/Program.cs" Line="16" Column="1" />
-      <File FileName="JokesWebApp/Models/Joke.cs" Line="7" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +12,7 @@
           <Node name="JokesWebApp" expanded="True">
             <Node name="JokesWebApp" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Joke.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
