@@ -7,6 +7,9 @@ A jokes app that allows you to input jokes and their answers, so that you can ha
 - CRUD
 - ASP.NET Core
 - Models Views Controllers (MVC)
+  - Model = classes (objects)
+  - View = web page (Razor HTML)
+  - Controller = connects models, business logic and web pages.
 - Database Setup
 - Registration, Login and Security
 - Search the database
