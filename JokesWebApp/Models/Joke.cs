@@ -9,6 +9,7 @@ namespace JokesWebApp.Models
 
         public Joke()
         {
+
         }
     }
 }
