@@ -278,3 +278,9 @@
 /Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Jokes/Create.cshtml.g.cs
+/Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Jokes/Delete.cshtml.g.cs
+/Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Jokes/Details.cshtml.g.cs
+/Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Jokes/Edit.cshtml.g.cs
+/Users/carsonjohnson/Documents/CSharp/C_Sharp-Jokes-App/JokesWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Jokes/Index.cshtml.g.cs

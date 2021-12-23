@@ -4,10 +4,18 @@
       <File FileName="JokesWebApp/Controllers/HomeController.cs" Line="25" Column="1" />
       <File FileName="JokesWebApp/Views/Home/Index.cshtml" />
       <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" />
-      <File FileName="JokesWebApp/Program.cs" Line="1" Column="1" />
-      <File FileName="JokesWebApp/Models/Joke.cs" Line="15" Column="1" />
-      <File FileName="JokesWebApp/Data/ApplicationDbContext.cs" Line="19" Column="1" />
-      <File FileName="JokesWebApp/Controllers/JokesController.cs" Line="51" Column="10" />
+      <File FileName="JokesWebApp/Program.cs" />
+      <File FileName="JokesWebApp/Models/Joke.cs" />
+      <File FileName="JokesWebApp/Data/ApplicationDbContext.cs" />
+      <File FileName="JokesWebApp/Controllers/JokesController.cs" />
+      <File FileName="JokesWebApp/Views/Jokes/Create.cshtml" />
+      <File FileName="JokesWebApp/Views/Jokes/Delete.cshtml" />
+      <File FileName="JokesWebApp/Views/Jokes/Details.cshtml" />
+      <File FileName="JokesWebApp/Views/Jokes/Edit.cshtml" />
+      <File FileName="JokesWebApp/Views/Jokes/Index.cshtml" />
+      <File FileName="JokesWebApp/Views/Jokes/Create.cshtml.cs" />
+      <File FileName="JokesWebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="1" Column="1" />
+      <File FileName="JokesWebApp/Data/Migrations/20211223163553_initialsetup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,12 +23,24 @@
           <Node name="JokesWebApp" expanded="True">
             <Node name="JokesWebApp" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="20211223163553_initialsetup.cs" expanded="True">
+                    <Node name="20211223163553_initialsetup.Designer.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Jokes" expanded="True" />
+                <Node name="Jokes" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                </Node>
               </Node>
-              <Node name="wwwroot" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="jquery-validation-unobtrusive" expanded="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
