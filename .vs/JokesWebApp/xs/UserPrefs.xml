@@ -1,11 +1,11 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{DEEDA93A-996B-46C3-9F4A-4671AF8D9319}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="JokesWebApp/Models/ErrorViewModel.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="JokesWebApp/Controllers/HomeController.cs" Line="25" Column="1" />
       <File FileName="JokesWebApp/Views/Home/Index.cshtml" />
       <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" />
       <File FileName="JokesWebApp/Program.cs" />
-      <File FileName="JokesWebApp/Models/Joke.cs" />
+      <File FileName="JokesWebApp/Models/Joke.cs" Line="15" Column="1" />
       <File FileName="JokesWebApp/Data/ApplicationDbContext.cs" Line="17" Column="1" />
       <File FileName="JokesWebApp/Controllers/JokesController.cs" Line="1" Column="1" />
       <File FileName="JokesWebApp/Models/ErrorViewModel.cs" Line="1" Column="1" />
@@ -17,7 +17,9 @@
             <Node name="JokesWebApp" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Joke.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True" />
               <Node name="wwwroot" expanded="True" />
             </Node>
