@@ -1,22 +1,5 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{DEEDA93A-996B-46C3-9F4A-4671AF8D9319}|Default">
   <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="JokesWebApp/Controllers/HomeController.cs" Line="25" Column="1" />
-      <File FileName="JokesWebApp/Views/Home/Index.cshtml" />
-      <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" />
-      <File FileName="JokesWebApp/Program.cs" />
-      <File FileName="JokesWebApp/Models/Joke.cs" />
-      <File FileName="JokesWebApp/Data/ApplicationDbContext.cs" />
-      <File FileName="JokesWebApp/Controllers/JokesController.cs" />
-      <File FileName="JokesWebApp/Views/Jokes/Create.cshtml" />
-      <File FileName="JokesWebApp/Views/Jokes/Delete.cshtml" />
-      <File FileName="JokesWebApp/Views/Jokes/Details.cshtml" />
-      <File FileName="JokesWebApp/Views/Jokes/Edit.cshtml" />
-      <File FileName="JokesWebApp/Views/Jokes/Index.cshtml" />
-      <File FileName="JokesWebApp/Views/Jokes/Create.cshtml.cs" />
-      <File FileName="JokesWebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="1" Column="1" />
-      <File FileName="JokesWebApp/Data/Migrations/20211223163553_initialsetup.cs" Line="1" Column="1" />
-    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -25,22 +8,23 @@
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
                 <Node name="Migrations" expanded="True">
-                  <Node name="20211223163553_initialsetup.cs" expanded="True">
-                    <Node name="20211223163553_initialsetup.Designer.cs" selected="True" />
-                  </Node>
+                  <Node name="00000000000000_CreateIdentitySchema.cs" expanded="True" />
+                  <Node name="20211223163553_initialsetup.cs" expanded="True" />
+                  <Node name="ApplicationDbContextModelSnapshot.cs" selected="True" />
                 </Node>
               </Node>
               <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Jokes" expanded="True">
-                  <Node name="Create.cshtml" expanded="True" />
-                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Jokes" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="lib" expanded="True">
                   <Node name="jquery-validation-unobtrusive" expanded="True" />
                 </Node>
               </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
